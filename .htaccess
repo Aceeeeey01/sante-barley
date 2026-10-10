@@ -1,0 +1,7 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^(config|database|scripts|includes|var)(/|$) - [F,L]
+RewriteRule (^|/)\. - [F,L]
+<FilesMatch "\.(md|sql|json|log)$">
+Require all denied
+</FilesMatch>

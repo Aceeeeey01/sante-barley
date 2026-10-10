@@ -1,0 +1,10 @@
+[
+  ["Santé Barley Powder",    "Santé Barley",     1490, 200, "Your everyday green ritual. A simple addition to a balanced, health-conscious lifestyle.",                 "200g canister",       "powder"],
+  ["Santé Barley Sachets",   "Santé Barley",      990, 120, "Your daily routine, made convenient. Individually packed for wherever life takes you.",                    "30 sachets",          "sachets"],
+  ["Santé Barley Capsules",  "Capsules",         1250,  85, "A convenient format for your everyday wellness routine.",                                                    "60 capsules",         "capsules"],
+  ["Santé Choco Barley",     "Specialty Drinks",  780,  68, "A comforting chocolate-inspired drink for a little everyday enjoyment.",                                    "15 sachets",          "choco"],
+  ["Santé Barley Fusion",    "Specialty Drinks",  850,  43, "Bring a fresh twist to your daily wellness ritual.",                                                        "15 sachets",          "fusion"],
+  ["Santé Fit N’ Trim",      "Wellness",          920,  30, "Make mindful choices that complement your balanced lifestyle.",                                             "10 sachets",          "fit"],
+  ["Santé Boost Coffee",     "Specialty Drinks",  650,  50, "A warm, welcoming addition to your morning ritual.",                                                        "10 sachets",          "coffee"],
+  ["Santé Daily Essentials", "Essentials",        590,  25, "Discover thoughtful essentials for a health-conscious lifestyle.",                                          "Wellness collection", "essentials"]
+]
